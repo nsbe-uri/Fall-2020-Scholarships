@@ -19,6 +19,7 @@ Requirement:
 
 
 ## Fall Scholarships:
+### Deadline To Apply: January 8, 2021
 <!-- Scholarships Table -->
 | Name      | Award Amount | Majors       | Classification |         GPA       | 
 | ----------- | ----------- | ----------- |  -----------   |     -----------   |
