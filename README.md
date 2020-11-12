@@ -6,11 +6,11 @@ Requirement:
 - Be a paid NSBE member.
 
 1. **Self report your GPA**
- &nbsp; - Go to https://connect.nsbe.org/
- &nbsp; - Login
- &nbsp; - Click "My Profile" in the top right corner.
- &nbsp; - Scroll down to the "Additional Information" section.
- &nbsp; - In the "Self Reported GPA" box, enter your current GPA.
+- Go to https://connect.nsbe.org/
+ - Login
+ - Click "My Profile" in the top right corner.
+ - Scroll down to the "Additional Information" section.
+ - In the "Self Reported GPA" box, enter your current GPA.
 2. **Go to https://apply.nsbe.org/**
 3. **Login with you NSBE Connect account**
 4. **Pick the scholarship you want to apply to, and fill out the application!**
